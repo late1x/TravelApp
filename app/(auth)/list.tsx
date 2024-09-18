@@ -181,7 +181,7 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   cancelButton: {
-    backgroundColor: '#808080', 
+    backgroundColor: '#808080',
     padding: 15,
     borderRadius: 10,
     marginHorizontal: 10,
